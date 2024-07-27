@@ -11,8 +11,8 @@ use PayPal\Api\ShippingAddress;
 
 // Create new agreement
 $agreement = new Agreement();
-$agreement->setName('Subscription to Natflix')
-  ->setDescription('9.88 Euros setup fee and Recurring payments of 8.88 Euros to Natflix')
+$agreement->setName('Subscription to ScreenPlay')
+  ->setDescription('9.88 Euros setup fee and Recurring payments of 8.88 Euros to ScreenPlay')
   ->setStartDate(gmdate("Y-m-d\TH:i:s\Z", strtotime("+1 month", time())));
 
 // Set plan id

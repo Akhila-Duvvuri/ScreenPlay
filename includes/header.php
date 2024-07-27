@@ -21,7 +21,7 @@ $userLoggedIn = $_SESSION["userLoggedIn"];
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Welcome to Natflix</title>
+        <title>Welcome to ScreenPlay</title>
         <link rel="stylesheet" type="text/css" href="assets/style/style.css" />
 
         <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>

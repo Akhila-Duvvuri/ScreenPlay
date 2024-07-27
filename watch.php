@@ -39,8 +39,6 @@ $upNextVideo = VideoProvider::getUpNext($con, $video);
         </div>
     </div>
 
-
-
     <video controls autoplay onended="showUpNext()">
         <source src='<?php echo $video->getFilePath(); ?>' type="video/mp4">
     </video>

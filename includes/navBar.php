@@ -3,7 +3,7 @@
     <div class="logoContainer">
 
         <a href="index.php">
-            <img src="assets/images/logo.png" alt="Logo">
+            <img src="assets/images/logo1.png" alt="Logo">
         </a>
 
     </div>

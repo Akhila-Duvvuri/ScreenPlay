@@ -156,7 +156,7 @@ if (isset($_GET['success']) && $_GET['success'] == 'true') {
             echo "<h3>You are subscribed! Go to PayPal to cancel.</h3>";
         }
         else {
-            echo "<a href='billing.php'>Subscribe to Natflix</a>";
+            echo "<a href='billing.php'>Subscribe to ScreenPlay</a>";
         }
         ?>
     </div>

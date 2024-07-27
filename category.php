@@ -11,3 +11,4 @@ echo $preview->createCategoryPreviewVideo($_GET["id"]);
 $containers = new CategoryContainers($con, $userLoggedIn);
 echo $containers->showCategory($_GET["id"]);
 ?>
+
